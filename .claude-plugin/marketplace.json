@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hephaistos",
+  "description": "A Claude Code plugin marketplace - tools forged for AI-assisted development",
+  "owner": {
+    "name": "Pierre Gaufillet",
+    "email": "pierre.gaufillet@bergamote.eu"
+  },
+  "plugins": [
+    {
+      "name": "jarpa",
+      "description": "Structured documentation methodology (Journal, Architecture, Requirements, Plan, Actions) for AI-assisted software engineering with automated session workflows, journal archiving, and test quality standards",
+      "version": "0.1.0",
+      "author": {
+        "name": "Pierre Gaufillet"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/pgaufillet/jarpa.git"
+      },
+      "homepage": "https://github.com/pgaufillet/jarpa",
+      "category": "productivity"
+    }
+  ]
+}
