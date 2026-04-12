@@ -8,7 +8,7 @@ A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin marketpla
 
 **Journal, Architecture, Requirements, Plan, Actions** - Structured documentation methodology for AI-assisted software engineering.
 
-- **Version**: 0.1.0
+- **Version**: 0.2.1
 - **Category**: Productivity
 - **Repository**: [pgaufillet/jarpa](https://github.com/pgaufillet/jarpa)
 
