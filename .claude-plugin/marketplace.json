@@ -10,7 +10,7 @@
     {
       "name": "jarpa",
       "description": "Structured documentation methodology (Journal, Architecture, Requirements, Plan, Actions) for AI-assisted software engineering with automated session workflows, journal archiving, and test quality standards",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "author": {
         "name": "Pierre Gaufillet"
       },
